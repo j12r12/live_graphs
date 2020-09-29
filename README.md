@@ -6,5 +6,6 @@ My script, **'anim.py'** uses a bespoke function to read data from a .csv file i
 
 In order to model a live data source, I created the script, **'data.py'**, which produces two lines to be plotted.
 
+
 ![](https://github.com/j12r12/live_graphs/blob/master/Figure_1.png?raw=True)
 
